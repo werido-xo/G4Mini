@@ -21,16 +21,16 @@
 
 G4开发板外观图：
 
-![](D:\Projects\Altium\G4Mini\Image\G4Mini-compare.jpg)
+![](https://github.com/werido-xo/G4Mini/blob/master/Image/G4Mini-compare.jpg)
 
 
 
 G4Mini板子运行简单的Demo
 
-![](D:\Projects\Altium\G4Mini\Image\G4Mini-run.jpg)
+![](https://github.com/werido-xo/G4Mini/blob/master/Image/G4Mini-run.jpg)
 
 
 
 My Cat： 笨蛋小猫
 
-![](D:\Projects\Altium\G4Mini\Image\Mycat.jpg)
+![](https://github.com/werido-xo/G4Mini/blob/master/Image/Mycat.jpg)
